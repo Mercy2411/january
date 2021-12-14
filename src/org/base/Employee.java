@@ -18,6 +18,6 @@ public static void main(String[] args) {
 	System.out.println(y);
 	char grade = 'A';
 	System.out.println("Employee grade is"+ grade);
-	
+	System.out.println("mercy");
 	}
 }
